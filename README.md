@@ -19,7 +19,7 @@
 
    ```bash
    git clone <repository-url>
-   cd multi-chat
+   cd RAG-Langchain-OpenAi
    ```
 
 2. Create a virtual environment:
